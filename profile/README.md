@@ -1,4 +1,4 @@
-![Gsoft](https://media.discordapp.net/attachments/1069033119145009182/1380667487544279071/GsoftGithubBanner.png?ex=6844b64c&amp;is=684364cc&amp;hm=c901ad8ad8a1ed516079e524affa7fa8e3ed8551047f6e327e9274798dc28b4d&amp;=&amp;format=webp&amp;quality=lossless&amp;width=1586&amp;height=448)
+![Gsoft](https://media.discordapp.net/attachments/1069033119145009182/1380668765452112034/GsoftGithubBanner_1.png?ex=6844b77d&is=684365fd&hm=bf240f93f1dfc69419c452f07a349edfc0cbbd76c744f875b1cffa0153064491&=&format=webp&quality=lossless)
 
 <h1>Gsoft</h1>
 <p>Um coração inteligente para as empresas.</p>
